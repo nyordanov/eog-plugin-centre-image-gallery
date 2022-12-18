@@ -1,0 +1,9 @@
+[Plugin]
+Module=centreimagegallery
+IAge=2
+Loader=python3
+Name=Centred Image Gallery
+Icon=postr
+Description=Scrolls the image gallery so that it is centred on the current image
+Authors=Nikolay Yordanov <me@nyordanov.com>
+Copyright=2022 CC-BY-SA
